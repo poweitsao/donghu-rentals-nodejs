@@ -1,0 +1,5 @@
+{
+  "name": "donghu-rentals",
+  "jwtPrivateKey": "1234",
+  "db": "mongodb://localhost/donghu-rentals"
+}

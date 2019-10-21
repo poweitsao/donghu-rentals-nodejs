@@ -1,0 +1,6 @@
+{
+  "name": "donghu-rentals - Production",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}
